@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Facebook",
+        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "889b0df60708ecc8a1c683e42537e34c02c69995",
+          "version": "5.11.0"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "e951bc286f12f140a14813cc01193731c160ecba",
+          "version": "5.10.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
